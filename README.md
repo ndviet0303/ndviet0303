@@ -4,9 +4,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndviet0303&show_icons=true&locale=en&layout=compact" alt="ndviet0303" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=drnxloc&show_icons=true&locale=en" alt="drnxloc" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndviet0303&show_icons=true&locale=en" alt="ndviet0303" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drnxloc&" alt="drnxloc" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ndviet0303&" alt="ndviet0303" /></p>
 
 <!--
 **ndviet0303/ndviet0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
